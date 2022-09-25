@@ -1,0 +1,16 @@
+.oportunidades {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 3rem;
+  height: 450px;
+  background-color: #4b4ee4;
+  overflow: hidden;
+}
+
+.titulos {
+  width: 40%;
+  color: white;
+}
+
+
